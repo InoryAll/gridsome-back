@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "StrApi",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
